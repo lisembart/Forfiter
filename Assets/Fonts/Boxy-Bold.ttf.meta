@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 60f154271981f0c4dbdbff2513c3db10
+timeCreated: 1502475974
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Boxy Bold
+  fontNames:
+  - Boxy Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
