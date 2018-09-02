@@ -4,7 +4,9 @@ Forfiter was my first (finished...) game, created in Unity 3D very long time ago
 
 ## Screenshots
 
-![](screenshots/1) ![](screenshots/2) ![](screenshots/3)
+![](Screenshots/1.jpg)
+![](Screenshots/2.jpg)
+![](Screenshots/3.jpg)
 
 
 
