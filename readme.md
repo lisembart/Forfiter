@@ -8,7 +8,8 @@ Forfiter was my first (finished...) game, created in Unity 3D very long time ago
 ![](Screenshots/2.jpg)
 ![](Screenshots/3.jpg)
 
-
+## Download
+Android: http://slideme.org/application/forfiter
 
 ##
 
